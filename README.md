@@ -47,7 +47,7 @@ A powerful offline music player with tag editor, ringtone cutter, equalizer, and
 
 ## 📸 Screenshots
 
-| Player UI | Tag Editor | Audio Cutter |
+| Player UI | Music List | Splash Screen |
 |-----------|------------|----------------|
 | ![screen_1](screenshots/screen_1.png) | ![screen_2](screenshots/screen_2.png) | ![screen_3](screenshots/screen_3.png) |
 
